@@ -11,6 +11,7 @@ do.systemless=0
 do.cleanup=1
 do.cleanuponabort=1
 device.name1=E6746
+device.name2=e6746
 '; } # end properties
 
 # shell variables
